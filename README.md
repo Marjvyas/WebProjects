@@ -56,10 +56,6 @@ On the homepage, you’ll find a **search box** where users can type the name of
 ```
 
 
-## 📷 Demo
-
-> 📌 Add screenshots or GIFs of the website here once deployed.
-
 ## 📌 Future Enhancements
 
 - 🎞️ Add movie poster images using TMDb API  
@@ -69,7 +65,7 @@ On the homepage, you’ll find a **search box** where users can type the name of
 
 ## 🧑‍💻 Author
 
-Made with 💻 and ☕ by [Your Name]  
+Made with 💻 and ☕ 
 Feel free to contribute, raise issues, or suggest new features!
 
 ---
