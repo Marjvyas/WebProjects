@@ -42,6 +42,28 @@ On the homepage, you’ll find a **search box** where users can type the name of
 3. The ML model processes the movie and finds similar titles based on content.
 4. The original movie and 5 most similar movies are returned and displayed.
 
+## Folder Structure
+
+```
+WebProjects/
+├── backend/                      # Flask backend
+│   ├── app.py                    # Flask server code
+│   ├── recommend_system.pkl      # ML model (not tracked by Git)
+│   └── requirements.txt          # Backend dependencies
+│
+├── frontend/                     # React frontend
+│   ├── src/
+│   │   ├── App.tsx               # Main app component
+│   │   ├── Search.tsx            # Movie recommendation UI
+│   │   └── index.css             # Styles
+│   ├── public/
+│   │   └── index.html            # HTML template
+│   ├── package.json              # Frontend dependencies
+│   └── vite.config.ts            # Vite config for React
+│
+├── .gitignore                    # Ignore node_modules, .pkl files, etc.
+├── README.md                     # Project documentation
+```
 
 ## 📌 Future Enhancements
 
