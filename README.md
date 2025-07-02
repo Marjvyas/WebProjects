@@ -42,19 +42,6 @@ On the homepage, you’ll find a **search box** where users can type the name of
 3. The ML model processes the movie and finds similar titles based on content.
 4. The original movie and 5 most similar movies are returned and displayed.
 
-## 📁 Folder Structure
-
-```
-├── static/
-│ └── style.css
-├── templates/
-│ └── index.html
-├── app.py
-├── model.pkl
-├── movies.csv
-├── README.md
-```
-
 
 ## 📌 Future Enhancements
 
